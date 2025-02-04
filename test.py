@@ -8,3 +8,4 @@ print("Hello,World!!!!")
 
 # masterから変更をかけていますその3
 
+# masterを削除しました
